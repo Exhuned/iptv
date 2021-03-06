@@ -5206,121 +5206,121 @@ https://wness103.neterra.tv/wness/wness.smil/playlist.m3u8
 http://
 #EXTINF:-1 tvg-name="Mango24" tvg-id="" group-title="POLAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/NewLogoMango.svg/360px-NewLogoMango.svg.png",Mango24
 https://stream.mango.pl:4443/mango/_definst_/live/playlist.m3u8
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 1 FHD
+#EXTINF:-1 tvg-name="TVP 1 FHD" tvg-id="" group-title="POLAND" tvg-logo="",TVP 1 FHD
 http://iptv.re-stream.tv:7711/Carlos/12345/68343?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 1 FHD PL
+#EXTINF:-1 tvg-name="TVP 1 FHD PL" tvg-id="" group-title="POLAND" tvg-logo="",TVP 1 FHD PL
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/5227?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 1 HD
+#EXTINF:-1 tvg-name="TVP 1 HD" tvg-id="" group-title="POLAND" tvg-logo="",TVP 1 HD
 http://supersonictv.live:25461/903310/034806/74269?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 1 HD
+#EXTINF:-1 tvg-name="TVP 1 HD" tvg-id="" group-title="POLAND" tvg-logo="",TVP 1 HD
 http://bazarhd.online:80/307210113622/307210113622/80934?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 1 HD
+#EXTINF:-1 tvg-name="TVP 1 HD" tvg-id="" group-title="POLAND" tvg-logo="",TVP 1 HD
 http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/436951?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 1 HD
+#EXTINF:-1 tvg-name="TVP 1 HD" tvg-id="" group-title="POLAND" tvg-logo="",TVP 1 HD
 http://pn.tvott.info:80/012911108321358/60035fd6f12b4/80934?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 1 HD PL
+#EXTINF:-1 tvg-name="TVP 1 HD PL" tvg-id="" group-title="POLAND" tvg-logo="",TVP 1 HD PL
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/7271?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 2 FHD
+#EXTINF:-1 tvg-name="TVP 2 FHD" tvg-id="" group-title="POLAND" tvg-logo="",TVP 2 FHD
 http://iptv.re-stream.tv:7711/Carlos/12345/68342?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 2 FHD PL
+#EXTINF:-1 tvg-name="TVP 2 FHD PL" tvg-id="" group-title="POLAND" tvg-logo="",TVP 2 FHD PL
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/5226?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 2 HD
+#EXTINF:-1 tvg-name="TVP 2 HD" tvg-id="" group-title="POLAND" tvg-logo="",TVP 2 HD
 http://bazarhd.online:80/307210117666/307210117666/80933?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 2 HD
+#EXTINF:-1 tvg-name="TVP 2 HD" tvg-id="" group-title="POLAND" tvg-logo="",TVP 2 HD
 http://bazarhd.online:80/307210113622/307210113622/80933?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 2 HD
+#EXTINF:-1 tvg-name="TVP 2 HD" tvg-id="" group-title="POLAND" tvg-logo="",TVP 2 HD
 http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/436952?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 2 HD
+#EXTINF:-1 tvg-name="TVP 2 HD" tvg-id="" group-title="POLAND" tvg-logo="",TVP 2 HD
 http://pn.tvott.info:80/012911108321358/60035fd6f12b4/80933?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 2 HD PL
+#EXTINF:-1 tvg-name="TVP 2 HD PL" tvg-id="" group-title="POLAND" tvg-logo="",TVP 2 HD PL
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/7270?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 3
+#EXTINF:-1 tvg-name="TVP 3" tvg-id="" group-title="POLAND" tvg-logo="",TVP 3
 http://bazarhd.online:80/307210113622/307210113622/80932?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 3
+#EXTINF:-1 tvg-name="TVP 3" tvg-id="" group-title="POLAND" tvg-logo="",TVP 3
 http://iptv.re-stream.tv:7711/Carlos/12345/68341?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 3
+#EXTINF:-1 tvg-name="TVP 3" tvg-id="" group-title="POLAND" tvg-logo="",TVP 3
 http://pn.tvott.info:80/012911108321358/60035fd6f12b4/80932?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP 3 Warszawa VIP PL
+#EXTINF:-1 tvg-name="TVP 3 Warszawa VIP PL" tvg-id="" group-title="POLAND" tvg-logo="",TVP 3 Warszawa VIP PL
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/9845?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP ABC
+#EXTINF:-1 tvg-name="TVP ABC" tvg-id="" group-title="POLAND" tvg-logo="",TVP ABC
 http://supersonictv.live:25461/903310/034806/74272?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP ABC
+#EXTINF:-1 tvg-name="TVP ABC" tvg-id="" group-title="POLAND" tvg-logo="",TVP ABC
 http://bazarhd.online:80/307210113622/307210113622/80827?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP ABC
+#EXTINF:-1 tvg-name="TVP ABC" tvg-id="" group-title="POLAND" tvg-logo="",TVP ABC
 http://iptv.re-stream.tv:7711/Carlos/12345/68336?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP ABC PL
+#EXTINF:-1 tvg-name="TVP ABC PL" tvg-id="" group-title="POLAND" tvg-logo="",TVP ABC PL
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/9894?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP FHD
+#EXTINF:-1 tvg-name="TVP FHD" tvg-id="" group-title="POLAND" tvg-logo="",TVP FHD
 http://iptv.re-stream.tv:7711/Carlos/12345/68335?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP FHD
+#EXTINF:-1 tvg-name="TVP FHD" tvg-id="" group-title="POLAND" tvg-logo="",TVP FHD
 http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/436955?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP FHD PL
+#EXTINF:-1 tvg-name="TVP FHD PL" tvg-id="" group-title="POLAND" tvg-logo="",TVP FHD PL
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/9893?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP HD
+#EXTINF:-1 tvg-name="TVP HD" tvg-id="" group-title="POLAND" tvg-logo="",TVP HD
 http://bazarhd.online:80/307210113622/307210113622/80935?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP HD
+#EXTINF:-1 tvg-name="TVP HD" tvg-id="" group-title="POLAND" tvg-logo="",TVP HD
 http://pn.tvott.info:80/012911108321358/60035fd6f12b4/80935?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP HISTORIA
+#EXTINF:-1 tvg-name="TVP Historia" tvg-id="" group-title="POLAND" tvg-logo="",TVP Historia
 http://bazarhd.online:80/307210113622/307210113622/80794?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP HISTORIA
+#EXTINF:-1 tvg-name="TVP Historia" tvg-id="" group-title="POLAND" tvg-logo="",TVP Historia
 http://pn.tvott.info:80/012911108321358/60035fd6f12b4/80794?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Historia
+#EXTINF:-1 tvg-name="TVP Historia" tvg-id="" group-title="POLAND" tvg-logo="",TVP Historia
 http://iptv.re-stream.tv:7711/Carlos/12345/68334?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Historia
+#EXTINF:-1 tvg-name="TVP Historia" tvg-id="" group-title="POLAND" tvg-logo="",TVP Historia
 http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/436956?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Historia PL
+#EXTINF:-1 tvg-name="TVP Historia PL" tvg-id="" group-title="POLAND" tvg-logo="",TVP Historia PL
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/9836?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP INFO
+#EXTINF:-1 tvg-name="TVP Info" tvg-id="" group-title="POLAND" tvg-logo="",TVP Info
 http://cobraa.in:8000/Fawzi0555660873/2L30ce6fj5/86000?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP INFO FHD
+#EXTINF:-1 tvg-name="TVP Info HD" tvg-id="" group-title="POLAND" tvg-logo="",TVP Info HD
 http://iptv.re-stream.tv:7711/Carlos/12345/68333?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP INFO HD
+#EXTINF:-1 tvg-name="TVP Info HD" tvg-id="" group-title="POLAND" tvg-logo="",TVP Info HD
 http://bazarhd.online:80/307210113622/307210113622/80739?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP INFO HD
+#EXTINF:-1 tvg-name="TVP Info HD" tvg-id="" group-title="POLAND" tvg-logo="",TVP Info HD
 http://pn.tvott.info:80/012911108321358/60035fd6f12b4/80739?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Info
+#EXTINF:-1 tvg-name="TVP Info" tvg-id="" group-title="POLAND" tvg-logo="",TVP Info
 http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/436957?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Info FHD
+#EXTINF:-1 tvg-name="TVP Info FHD" tvg-id="" group-title="POLAND" tvg-logo="",TVP Info FHD
 http://supersonictv.live:25461/903310/034806/74276?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Info FHD
+#EXTINF:-1 tvg-name="TVP Info FHD" tvg-id="" group-title="POLAND" tvg-logo="",TVP Info FHD
 http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/436958?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Info FHD PL
+#EXTINF:-1 tvg-name="TVP Info FHD PL" tvg-id="" group-title="POLAND" tvg-logo="",TVP Info FHD PL
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/7269?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP KULTURA
+#EXTINF:-1 tvg-name="TVP Kultura" tvg-id="" group-title="POLAND" tvg-logo="",TVP Kultura
 http://pn.tvott.info:80/012911108321358/60035fd6f12b4/80876?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Kultura
+#EXTINF:-1 tvg-name="TVP Kultura" tvg-id="" group-title="POLAND" tvg-logo="",TVP Kultura
 http://iptv.re-stream.tv:7711/Carlos/12345/68332?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Kultura PL
+#EXTINF:-1 tvg-name="TVP Kultura PL" tvg-id="" group-title="POLAND" tvg-logo="",TVP Kultura PL
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/9892?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP POLONIA
+#EXTINF:-1 tvg-name="TVP POLONIA" tvg-id="" group-title="POLAND" tvg-logo="",TVP POLNIA
 http://bazarhd.online:80/307210113622/307210113622/80931?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Polonia FHD PL
+#EXTINF:-1 tvg-name="TVP Polonia FHD" tvg-id="" group-title="POLAND" tvg-logo="",TVP Polonia FHD
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/9843?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP ROZRYWKA
+#EXTINF:-1 tvg-name="TVP Rozrywka" tvg-id="" group-title="POLAND" tvg-logo="",TVP Rozrywka
 http://bazarhd.online:80/307210113622/307210113622/80834?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Rozrywka
+#EXTINF:-1 tvg-name="TVP Rozrywka" tvg-id="" group-title="POLAND" tvg-logo="",TVP Rozrywka
 http://iptv.re-stream.tv:7711/Carlos/12345/68331?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Rozrywka
+#EXTINF:-1 tvg-name="TVP Rozrywka" tvg-id="" group-title="POLAND" tvg-logo="",TVP Rozrywka
 http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/436961?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Rozrywka PL
+#EXTINF:-1 tvg-name="TVP Rozrywka" tvg-id="" group-title="POLAND" tvg-logo="",TVP Rozrywka
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/9891?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP SERIALE
+#EXTINF:-1 tvg-name="TVP Seriale" tvg-id="" group-title="POLAND" tvg-logo="",TVP Seriale
 http://bazarhd.online:80/307210113622/307210113622/80883?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP SERIALE
+#EXTINF:-1 tvg-name="TVP Seriale" tvg-id="" group-title="POLAND" tvg-logo="",TVP Seriale
 http://iptv.re-stream.tv:7711/Carlos/12345/68330?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Sport",TVP SPORT HD
+#EXTINF:-1 tvg-name="TVP Sports HD" tvg-id="" group-title="POLAND" tvg-logo="",TVP Sports HD
 http://bazarhd.online:80/307210113622/307210113622/80749?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Seriale
+#EXTINF:-1 tvg-name="TVP Seriale" tvg-id="" group-title="POLAND" tvg-logo="",TVP Seriale
 http://supersonictv.live:25461/903310/034806/74280?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Undefined",TVP Seriale PL
+#EXTINF:-1 tvg-name="TVP Serial LP" tvg-id="" group-title="POLAND" tvg-logo="",TVP Serial LP
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/7268?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Sport",TVP Sport FHD
+#EXTINF:-1 tvg-name="TV Sports HD" tvg-id="" group-title="POLAND" tvg-logo="",TV Sports HD
 http://iptv.re-stream.tv:7711/Carlos/12345/68329?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Sport",TVP Sport HD
+#EXTINF:-1 tvg-name="TV Sports HD" tvg-id="" group-title="POLAND" tvg-logo="",TV Sports HD
 http://supersonictv.live:25461/903310/034806/74281?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Sport",TVP Sport HD
+#EXTINF:-1 tvg-name="TV Sports HD" tvg-id="" group-title="POLAND" tvg-logo="",TV Sports HD
 http://iptv.re-stream.tv:7711/Carlos/12345/68328?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="POLAND" tvg-logo="" group-title="Sport",TVP Sport HD
+#EXTINF:-1 tvg-name="TV Sports HD" tvg-id="" group-title="POLAND" tvg-logo="",TV Sports HD
 http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/436963?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="dla Ciebie tv" tvg-id="" group-title="POLAND" tvg-logo="http://www.jaw.pl/wp-content/uploads/logo_jaw_pl_PNG_300.png",dla Ciebie tv
 http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
